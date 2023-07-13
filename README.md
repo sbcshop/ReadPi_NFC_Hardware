@@ -5,9 +5,9 @@
 In this github repo you will find Hardware design files for ReadPi NFC
 
 ### Repository Contents:
-  - [/Design Data]() - This directory contains Schematic, Top and Bottom View
-  - [/Mechanical Data]() - This directory contains Dimension, 3D and STEP files
-  - [ReadPi NFC Getting Started]() - This repo contains ReadPi NFC Getting Started and Sample Codes.
+  - [/Design Data](https://github.com/sbcshop/ReadPi_NFC_Hardware/tree/main/Design%20Data) - This directory contains Schematic, Top and Bottom View
+  - [/Mechanical Data](https://github.com/sbcshop/ReadPi_NFC_Hardware/tree/main/Mechanical%20Data) - This directory contains Dimension, 3D and STEP files
+  - [ReadPi NFC Getting Started](https://github.com/sbcshop/ReadPi_NFC_Software) - This repo contains ReadPi NFC Getting Started and Sample Codes.
 
 
 ## Related Products
