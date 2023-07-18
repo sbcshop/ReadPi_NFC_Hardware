@@ -1,5 +1,5 @@
 # ReadPi_NFC_Hardware
-<img src="https://cdn.shopify.com/s/files/1/1217/2104/files/readpi_1.png?v=1672989840">
+<img src="https://cdn.shopify.com/s/files/1/1217/2104/files/readpi_1BANNER.jpg?v=1689673444">
 
 13.56MHz NFC Reader/Writer powered by Raspberry Pi Pico W. In this github repo you will find Hardware design files for ReadPi NFC.
 
